@@ -1,0 +1,15 @@
+body {background: linear-gradient(100deg,#733d62,#9e5a8c) ;
+	height: 100%;
+	margin-left: 20px}
+button {border:2px solid black;
+		background-color: black;
+		color: white;
+		height: 27px;
+		border-radius: 4px;
+		margin: 4px;
+		width: 100px;}
+button:hover{background-color: white;
+			color: black;}
+input {border:2px solid black;
+		border-radius: 4px;
+		height: 22px;}
